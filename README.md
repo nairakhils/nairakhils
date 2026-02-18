@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Binary Black Hole Inspiral Animation -->
-<img src="binary_inspiral.gif" alt="Binary Black Hole Inspiral with Hydrodynamic Particles" width="100%"/>
+<img src="bh.gif" alt="Binary Black Hole Inspiral with Hydrodynamic Particles" width="100%"/>
 
 <br/>
 
@@ -37,6 +37,7 @@
 
 <br/><br/>
 
-<sub>∎ black holes don't have hair, but they do have accretion disks ∎</sub>
+<sub>∎ somewhere between the ISCO and a segfault ∎</sub>
 
 </div>
+
