@@ -5,7 +5,7 @@
 
 <br/>
 
-### `computational astrophysics · binary black holes · hydrodynamics`
+<h3><code>computational astrophysics · binary black holes · hydrodynamics</code></h3>
 
 <br/>
 
@@ -26,7 +26,7 @@
 
 <br/><br/>
 
----
+<hr width="50%" color="#333333"/>
 
 <br/>
 
@@ -40,4 +40,3 @@
 <sub>∎ somewhere between the ISCO and a segfault ∎</sub>
 
 </div>
-
