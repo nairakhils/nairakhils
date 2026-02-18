@@ -10,9 +10,7 @@
 <br/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=solving+compressible+Euler+equations;simulating+binary+black+hole+mergers;tensor+cores+go+brrr;finite+volume+methods+for+extreme+astrophysics;nan+nan+nan+nan+nan+—+batman+or+my+density+field" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=solving+compressible+Euler+equations;simulating+binary+black+hole+mergers;tensor+cores+go+brrr;finite+volume+methods+for+extreme+astrophysics;nan+nan+nan+nan+nan+—+batman+or+my+density+field" alt="Typing SVG" />
 
 <br/><br/>
 
